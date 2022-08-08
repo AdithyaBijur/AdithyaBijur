@@ -1,7 +1,6 @@
 ## 👋 Hi, I’m Adithya Bijur - a Software Engineer 😎
 - 👀 &nbsp; I’m interested in solving problems and improving User Experience.
-- 🌱 &nbsp; I’m currently working with JavaScript, React, Java, Django, PHP, Jquery, MYSQL/MSSQL etc.  
-- 🚀 &nbsp; I’m am currently learning Nextjs, GraphQL.
+- 🌱 &nbsp; I’m currently working with JavaScript, Java, Django, PHP, Jquery, MYSQL/MSSQL etc.  
 - 📫 &nbsp; How to reach me: adithyabijur@gmail.com 
 
 <!---
